@@ -35,7 +35,5 @@ object P01Two {
       case x :: xs =>
         x :: flattenTwice(xs)
     }
-
   }
-
 }
