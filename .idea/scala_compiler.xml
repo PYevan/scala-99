@@ -2,6 +2,6 @@
 <project version="4">
   <component name="ScalaCompilerConfiguration">
     <option name="separateProdTestSources" value="true" />
-    <profile name="sbt 1" modules="scala-99-evan,scala-99-evan.main,scala-99-evan.test" />
+    <profile name="sbt 1" modules="scala-99-evan,scala-99-evan.main,scala-99-evan.test,scala-learning.scala-99-evan,scala-learning.scala-99-evan.main,scala-learning.scala-99-evan.test" />
   </component>
 </project>
