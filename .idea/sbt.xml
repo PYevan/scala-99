@@ -7,8 +7,8 @@
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="modules">
           <set>
-            <option value="$USER_HOME$/Library/CloudStorage/OneDrive-NitroSoftware,Inc/Desktop/scala-99-evan" />
-            <option value="$USER_HOME$/Library/CloudStorage/OneDrive-NitroSoftware,Inc/Desktop/scala-99-evan/project" />
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/project" />
           </set>
         </option>
         <option name="sbtVersion" value="1.10.7" />
